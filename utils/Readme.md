@@ -57,4 +57,5 @@ streamlit run app.py
 
 6. To add PDF and update the Vector database 
 
-put the PDFs inside the docs folder and run setup.py
+Create Docs folder
+put the PDFs inside the Docs folder and run setup.py
