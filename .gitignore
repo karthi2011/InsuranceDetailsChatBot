@@ -1,0 +1,7 @@
+doc/*
+
+faiss_index/
+
+**/__pycache__/
+
+.env
